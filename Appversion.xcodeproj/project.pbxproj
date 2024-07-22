@@ -291,6 +291,7 @@
 				DEVELOPMENT_TEAM = DH6FDUN2HM;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Appversion/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Vifi;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -322,6 +323,7 @@
 				DEVELOPMENT_TEAM = DH6FDUN2HM;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Appversion/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Vifi;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
